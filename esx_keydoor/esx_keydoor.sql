@@ -1,0 +1,1 @@
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (NULL, 'green-keycard', 'Key', '1', '0', '1');
